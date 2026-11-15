@@ -1,4 +1,4 @@
-name: Job Alert
+name: Job Alerts
 
 on:
   schedule:
